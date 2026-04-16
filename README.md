@@ -1,13 +1,29 @@
 # Mikrocomputing
+**ARM Cortex-M4 Embedded Systems Project: From GPIO to Automotive Bus Systems**
+
 Project Mikrocomputing with ARM Cortex-M4 µC to the lecture "Mikrocomputertechnik" on the THI the Technical University of Applied Science of Inolstadt. 
 
-## Introduction
+## 📌 Introduction
+It was used the ARM Cortex-M4 µC to get into contact with microcomputing with C++, Registers, Interrupts, Peripherals
 
-## Project Description
-**
+## 💻 Project Description
+This project features a comprehensive implementation of low-level software solutions developed for the ARM Cortex-M4 (STM32F407xx) microcontroller. Created as part of the "Microcomputer Technology" lab at the Technical University of Applied Sciences Ingolstadt (THI), this repository demonstrates the systematic control of complex peripherals and the resolution of electrical engineering challenges using the C programming language.
 
+The primary focus was on register-based programming and high-precision timing, both of which are critical requirements in modern automotive and automation technology. Rather than relying on high-level abstractions, the hardware was initialized "from scratch" to gain a profound understanding of interrupt handling, bus protocols, and signal processing.
 
-**
+## 🛠️ Key Engineering Competencies
+**Peripheral Expertise**
+Full configuration and management of Hardware Timers (PWM, Input Capture), ADC (Sensor Data Acquisition), and USART.
+
+**HMI & Visualization**
+Development of custom drivers for LCD display controllers and keypad matrices utilizing the parallel FSMC (Flexible Static Memory Controller) interface.
+
+**Automotive Communication** 
+Implementation of a robust LIN Bus communication protocol to facilitate networking between decentralized electronic control units (ECUs).
+
+**Measurement & Testing**
+Verification of software logic through hardware-side analysis using Oscilloscopes and advanced In-Circuit Debugging techniques.
+
 
 ## Explanation Repositories
 
