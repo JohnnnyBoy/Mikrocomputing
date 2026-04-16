@@ -27,6 +27,9 @@ Verification of software logic through hardware-side analysis using Oscilloscope
 
 ## Explanation Repositories
 
+<img width="650" height="400" alt="ARM_Cortex-M4" src="https://github.com/user-attachments/assets/eeecd3ad-ea99-4f89-95c1-a96deb6a78fa" />
+
+
 ## 📚 References
 
 The development of this project was based on the following official documentation and materials. For copyright reasons, documents from the Technical University of Ingolstadt, STMicroelectronics, and ARM Architecture are not included in this repository.
