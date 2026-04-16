@@ -12,17 +12,13 @@ This project features a comprehensive implementation of low-level software solut
 The primary focus was on register-based programming and high-precision timing, both of which are critical requirements in modern automotive and automation technology. Rather than relying on high-level abstractions, the hardware was initialized "from scratch" to gain a profound understanding of interrupt handling, bus protocols, and signal processing.
 
 ## 🛠️ Key Engineering Competencies
-**Peripheral Expertise**
-Full configuration and management of Hardware Timers (PWM, Input Capture), ADC (Sensor Data Acquisition), and USART.
+**Peripheral Expertise:** Full configuration and management of Hardware Timers (PWM, Input Capture), ADC (Sensor Data Acquisition), and USART.
 
-**HMI & Visualization**
-Development of custom drivers for LCD display controllers and keypad matrices utilizing the parallel FSMC (Flexible Static Memory Controller) interface.
+**HMI & Visualization:** Development of custom drivers for LCD display controllers and keypad matrices utilizing the parallel FSMC (Flexible Static Memory Controller) interface.
 
-**Automotive Communication** 
-Implementation of a robust LIN Bus communication protocol to facilitate networking between decentralized electronic control units (ECUs).
+**Automotive Communication:** Implementation of a robust LIN Bus communication protocol to facilitate networking between decentralized electronic control units (ECUs).
 
-**Measurement & Testing**
-Verification of software logic through hardware-side analysis using Oscilloscopes and advanced In-Circuit Debugging techniques.
+**Measurement & Testing:** Verification of software logic through hardware-side analysis using Oscilloscopes and advanced In-Circuit Debugging techniques.
 
 
 ## Explanation Repositories
