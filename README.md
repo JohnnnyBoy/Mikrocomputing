@@ -26,7 +26,16 @@ Verification of software logic through hardware-side analysis using Oscilloscope
 
 
 ## Explanation Repositories
+Project Structure / Modules
+**Part 1-2:** Basic I/O & Debugging – Implementation of LED blinking patterns and tactile switch polling.
 
+**Part 3-4:** HMI Interfaces – Custom LCD driver development and keypad matrix integration via parallel interfaces.
+
+**Part 5-6:** Real-Time & Sensors – Interrupt-driven time bases and high-precision temperature sensing.
+
+**Part 7-9:** Communication & Actuators – LIN Bus implementation, ADC data acquisition, and PWM-based throttle valve control.
+
+## 
 <img width="650" height="400" alt="ARM_Cortex-M4" src="https://github.com/user-attachments/assets/eeecd3ad-ea99-4f89-95c1-a96deb6a78fa" />
 
 
