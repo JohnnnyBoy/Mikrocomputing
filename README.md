@@ -1,2 +1,35 @@
 # Mikrocomputing
-Praktikum Mikrocomputertechnik mit ARM Cortex-M4 µC 
+Project Mikrocomputing with ARM Cortex-M4 µC to the lecture "Mikrocomputertechnik" on the THI the Technical University of Applied Science of Inolstadt. 
+
+## Introduction
+
+## Project Description
+**
+
+
+**
+
+## Explanation Repositories
+
+## 📚 References
+
+The development of this project was based on the following official documentation and materials. For copyright reasons, documents from the Technical University of Ingolstadt, STMicroelectronics, and ARM Architecture are not included in this repository.
+
+| ID | Documentdetails |
+|:---|:---|
+| [1] | **STMicroelectronics**, "UM1472 User manual: Discovery kit for STM32F407/417 lines," *DocID022256 Rev 4*, Jan. 2014. [Online verfügbar](https://www.st.com) |
+| [2] | **STMicroelectronics**, "AN2825 Application Note: S-Touch® STMPE811 resistive touchscreen controller advanced features," *Doc ID 15023 Rev 1*, 2011. [Online verfügbar](https://www.st.com) |
+| [3] | **ARM Limited**, "Cortex-M4 Revision r0p0 Technical Reference Manual," *ARM DDI 0439B (ID030210)*, 2010. [Online verfügbar](https://www.arm.com) |
+| [4] | **STMicroelectronics**, "RM0090 Reference manual: STM32F405xx/07xx, STM32F415xx/17xx, STM32F42xxx and STM32F43xxx advanced ARM-based 32-bit MCUs," *Doc ID 018909 Rev 6*, Feb. 2014. [Online verfügbar](https://www.st.com) |
+| [5] | **STMicroelectronics**, "STM32F405xx STM32F407xx, ARM Cortex-M4 32b MCU+FPU, Datasheet - production data," *DocID022152 Rev 4*, Jun. 2013. [Online verfügbar](https://www.st.com) |
+| [6] | **ARM Limited**, "Cortex™-M4 Devices Generic User Guide," *ARM DUI 0553A (ID121610)*, 2010. [Online verfügbar](https://www.arm.com) |
+| [7] | **Solomon Systech Limited**, "SSD2119 Advance Information: 320 RGB x 240 TFT LCD Driver Integrated Power Circuit," *SSD2119 Rev 1.4*, Jun. 2009. [Online verfügbar](http://www.solomon-systech.com) |
+| [8] | **STMicroelectronics**, "PM0214 Programming manual: STM32F3 and STM32F4 Series Cortex®-M4 programming manual," *DocID022708 Rev 4*, Mai 2014. [Online verfügbar](https://www.st.com) |
+| [9] | **Embest Technology Co., LTD**, "STM32F4DIS-BB - Rev History & Block Diagram," *Dokumentnr.: STM32F4DIS-BB-001-SH*, Rev V1.0, 24. Okt. 2012. |
+| [10] | **Embest Technology Co., LTD**, "STM32F4DIS-LCD - Rev History & Block Diagram," *Dokumentnr.: STM32F4DIS-CAM-001-SH*, Rev V1.0, 24. Okt. 2012. |
+| [11] | **STMicroelectronics**, "STMPE811, Advanced resistive touch screen controller with 8-bit GPIO expander," *Doc ID 14489 Rev 2*, Apr. 2009. [Online verfügbar](https://www.st.com) |
+| [12] | **Prof. Dr.-Ing. Lorenz Gaul**, "Praktikum Mikrocomputertechnik mit ARM, Cortex-M4 µC, Aufgaben für den Studiengang EIT," *V6.0.0*, TH Ingolstadt, 14. Mär. 2025. |
+| [13] | **L. Gaul, U. Margull, G. Passig**, "Praktikum und Übung, MCT mit ARM-Cortex Mikrocontrollern, Installation IDE und Projekterstellung," *V2.6.0*, TH Ingolstadt, 14. Mär. 2025. |
+| [14] | **L. Gaul, U. Margull, G. Passig**, "Praktikum Mikrocomputertechnik mit einem ARM Cortex-M4 Controller, Dokumentation," *V4.1.1*, TH Ingolstadt, 14. Mär. 2023. |
+
+---
