@@ -27,6 +27,7 @@ Verification of software logic through hardware-side analysis using Oscilloscope
 
 ## Explanation Repositories
 Project Structure / Modules
+
 **Part 1-2:** Basic I/O & Debugging – Implementation of LED blinking patterns and tactile switch polling.
 
 **Part 3-4:** HMI Interfaces – Custom LCD driver development and keypad matrix integration via parallel interfaces.
